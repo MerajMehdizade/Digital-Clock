@@ -39,7 +39,7 @@ A sleek and responsive digital clock created with Vanilla JS and Tailwind CSS. S
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+You can give any help to make our work better, **your smallest work is valuable for us**
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
