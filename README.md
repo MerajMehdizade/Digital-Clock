@@ -61,12 +61,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
 [tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com
 [js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
