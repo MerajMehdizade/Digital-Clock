@@ -12,6 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## How to start the project
 ```
+Npm i  // for nodeFile
 Npm run dev
 ```
 ## About The Project
