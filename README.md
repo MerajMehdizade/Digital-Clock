@@ -15,6 +15,14 @@
 Npm i  // for nodeFile
 Npm run dev
 ```
+### Features of this template :
+<ol>
+  <li>Responsive</li>
+  <li>Best Practices</li>
+  <li>Clean Code</li>
+</ol>
+
+
 ## About The Project
 
 A sleek and responsive digital clock created with Vanilla JS and Tailwind CSS. Stay on schedule and never miss a beat with this elegant timekeeping tool. Whether on desktop or mobile, This digital clock ensures accurate and visually appealing time display, enhancing your productivity and time management skills.
